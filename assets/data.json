@@ -1,0 +1,49 @@
+[
+    {
+        "title": "Repos",
+        "entries": [
+            {
+                "title": "TU Graz's Gitlab",
+                "url": "http://gitlab.tugraz.at"
+            },
+            {
+                "title": "IAIK's Gitlab",
+                "url": "http://git.teaching.iaik.tugraz.at"
+            },
+            {
+                "title": "CGV's Gitlab",
+                "url": "https://student.cgv.tugraz.at"
+            }
+        ]
+    },
+    {
+        "title": "Common",
+        "entries": [
+            {
+                "title": "TU Graz Online",
+                "url": "http://online.tugraz.at"
+            },
+            {
+                "title": "Teach Center",
+                "url": "http://tc.tugraz.at"
+            },
+            {
+                "title": "Tube",
+                "url": "http://tube.tugraz.at"
+            },
+            {
+                "title": "Student Dashboard",
+                "url": "http://stud-dash.tugraz.at"
+            }
+        ]
+    },
+    {
+        "title": "IAIK",
+        "entries": [
+            {
+                "title": "TACOS",
+                "url": "https://sweb.student.iaik.tugraz.at/"
+            }
+        ]
+    }
+]
