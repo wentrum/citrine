@@ -13,6 +13,10 @@
             {
                 "title": "CGV's Gitlab",
                 "url": "https://student.cgv.tugraz.at"
+            },
+            {
+                "title": "IST's Student's Gitlab",
+                "url": "https://git-students.ist.tugraz.at/"
             }
         ]
     },
