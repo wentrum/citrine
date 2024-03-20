@@ -49,5 +49,20 @@
                 "url": "https://sweb.student.iaik.tugraz.at/"
             }
         ]
+    }, 
+    {
+        "title":"FGP",
+        "entries": [ {
+            "title": "Herkules Testing System",
+            "url": "https://herkules.cgv.tugraz.at/"
+        }, {
+            "title": "Assignment Sheet",
+            "url": "https://tc.tugraz.at/main/mod/resource/view.php?id=411965"
+        }, {
+            "title": "TC",
+            "url":"https://tc.tugraz.at/main/course/view.php?id=1428"
+        }, {"title": "Git", 
+            "url":"https://student.cgv.tugraz.at/"
+        }]
     }
 ]
