@@ -64,5 +64,16 @@
         }, {"title": "Git", 
             "url":"https://student.cgv.tugraz.at/"
         }]
+    },
+    {
+        "title": "GAIL",
+        "entries": [{
+            "title": "Exercise 1",
+            "url": "https://tc.tugraz.at/main/mod/assign/view.php?id=417362"
+        },
+        {
+            "title": "Repo",
+            "url": "https://gitlab.tugraz.at/3E025C6C9DD5EB9F/gail"
+        }]
     }
 ]
