@@ -75,5 +75,14 @@
             "title": "Repo",
             "url": "https://gitlab.tugraz.at/3E025C6C9DD5EB9F/gail"
         }]
+    },
+    {
+        "title": "SWP",
+        "entries": [
+             {
+                "title": "IST's Student's Gitlab",
+                "url": "https://git-students.ist.tugraz.at/"
+            }
+        ]
     }
 ]
