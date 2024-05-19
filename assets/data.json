@@ -49,37 +49,45 @@
                 "url": "https://sweb.student.iaik.tugraz.at/"
             }
         ]
-    }, 
+    },
     {
-        "title":"FGP",
-        "entries": [ {
-            "title": "Herkules Testing System",
-            "url": "https://herkules.cgv.tugraz.at/"
-        }, {
-            "title": "Assignment Sheet",
-            "url": "https://tc.tugraz.at/main/mod/resource/view.php?id=411965"
-        }, {
-            "title": "TC",
-            "url":"https://tc.tugraz.at/main/course/view.php?id=1428"
-        }, {"title": "Git", 
-            "url":"https://student.cgv.tugraz.at/"
-        }]
+        "title": "FGP",
+        "entries": [
+            {
+                "title": "Herkules Testing System",
+                "url": "https://herkules.cgv.tugraz.at/"
+            },
+            {
+                "title": "Assignment Sheet",
+                "url": "https://tc.tugraz.at/main/mod/resource/view.php?id=411965"
+            },
+            {
+                "title": "TC",
+                "url": "https://tc.tugraz.at/main/course/view.php?id=1428"
+            },
+            {
+                "title": "Git",
+                "url": "https://student.cgv.tugraz.at/"
+            }
+        ]
     },
     {
         "title": "GAIL",
-        "entries": [{
-            "title": "Exercise 1",
-            "url": "https://tc.tugraz.at/main/mod/assign/view.php?id=417362"
-        },
-        {
-            "title": "Repo",
-            "url": "https://gitlab.tugraz.at/3E025C6C9DD5EB9F/gail"
-        }]
+        "entries": [
+            {
+                "title": "Exercise 1",
+                "url": "https://tc.tugraz.at/main/mod/assign/view.php?id=417362"
+            },
+            {
+                "title": "Repo",
+                "url": "https://gitlab.tugraz.at/3E025C6C9DD5EB9F/gail"
+            }
+        ]
     },
     {
         "title": "SWP",
         "entries": [
-             {
+            {
                 "title": "IST's Student's Gitlab",
                 "url": "https://git-students.ist.tugraz.at/"
             }
