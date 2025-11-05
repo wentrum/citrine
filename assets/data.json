@@ -92,5 +92,15 @@
                 "url": "https://git-students.ist.tugraz.at/"
             }
         ]
+    },
+    {
+        "title": "Bachelor thesis",
+        "entries": [
+            {
+                "title": "PyTorch Geometric - Introduction by Example",
+                "notes": "main featuers\n* Provides data structure\n* Data transformation with torchvision: point cloud to nearest neighbor graphs [see documentation](https://pytorch-geometric.readthedocs.io/en/latest/get_started/introduction.html#data-transforms)",
+                "url": "https://pytorch-geometric.readthedocs.io/en/latest/get_started/introduction.html"
+            }
+        ]
     }
 ]
